@@ -8,3 +8,6 @@ add_executable(binarytree ${SOURCE_FILES})
 
 set(SOURCE_FILES bitonic.cpp)
 add_executable(bitonic ${SOURCE_FILES})
+
+set(SOURCE_FILES arraysumofpair.cpp)
+add_executable(arraysumofpair ${SOURCE_FILES})

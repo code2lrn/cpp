@@ -5,3 +5,6 @@ add_executable(anagramgrp ${SOURCE_FILES})
 
 set(SOURCE_FILES binarytree.cpp)
 add_executable(binarytree ${SOURCE_FILES})
+
+set(SOURCE_FILES bitonic.cpp)
+add_executable(bitonic ${SOURCE_FILES})

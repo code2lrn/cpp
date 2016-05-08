@@ -11,3 +11,6 @@ add_executable(bitonic ${SOURCE_FILES})
 
 set(SOURCE_FILES arraysumofpair.cpp)
 add_executable(arraysumofpair ${SOURCE_FILES})
+
+set(SOURCE_FILES maxvaluesubsequence.cpp)
+add_executable(maxvaluesubsequence ${SOURCE_FILES})

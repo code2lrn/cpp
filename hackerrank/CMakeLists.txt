@@ -8,3 +8,6 @@ add_executable(knightbishop ${SOURCE_FILES})
 
 set(SOURCE_FILES getline.cpp)
 add_executable(getline ${SOURCE_FILES})
+
+set(SOURCE_FILES currencymarket.cpp)
+add_executable(currencymarket ${SOURCE_FILES})

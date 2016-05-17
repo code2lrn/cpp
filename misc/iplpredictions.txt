@@ -1,0 +1,1152 @@
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Gujarat Lions~18
+Sunrisers Hyderabad~16
+Royal Challengers Bangalore~16
+Kolkata Knight Riders~16
+Mumbai Indians~14
+Delhi Daredevils~14
+Rising Pune Supergiants~10
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Gujarat Lions~18
+Royal Challengers Bangalore~16
+Mumbai Indians~14
+Kolkata Knight Riders~14
+Delhi Daredevils~14
+Rising Pune Supergiants~10
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~16
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Kolkata Knight Riders~16
+Gujarat Lions~16
+Delhi Daredevils~14
+Rising Pune Supergiants~10
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Gujarat Lions~16
+Kolkata Knight Riders~14
+Delhi Daredevils~14
+Rising Pune Supergiants~10
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Gujarat Lions~18
+Sunrisers Hyderabad~16
+Royal Challengers Bangalore~16
+Kolkata Knight Riders~16
+Mumbai Indians~14
+Delhi Daredevils~14
+Kings XI Punjab~10
+Rising Pune Supergiants~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Gujarat Lions~18
+Royal Challengers Bangalore~16
+Mumbai Indians~14
+Kolkata Knight Riders~14
+Delhi Daredevils~14
+Kings XI Punjab~10
+Rising Pune Supergiants~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~16
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Kolkata Knight Riders~16
+Gujarat Lions~16
+Delhi Daredevils~14
+Kings XI Punjab~10
+Rising Pune Supergiants~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Gujarat Lions~16
+Kolkata Knight Riders~14
+Delhi Daredevils~14
+Kings XI Punjab~10
+Rising Pune Supergiants~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Gujarat Lions~18
+Royal Challengers Bangalore~16
+Kolkata Knight Riders~16
+Mumbai Indians~14
+Delhi Daredevils~12
+Rising Pune Supergiants~10
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~20
+Gujarat Lions~18
+Royal Challengers Bangalore~16
+Mumbai Indians~14
+Kolkata Knight Riders~14
+Delhi Daredevils~12
+Rising Pune Supergiants~10
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Kolkata Knight Riders~16
+Gujarat Lions~16
+Delhi Daredevils~12
+Rising Pune Supergiants~10
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~20
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Gujarat Lions~16
+Kolkata Knight Riders~14
+Delhi Daredevils~12
+Rising Pune Supergiants~10
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Gujarat Lions~18
+Royal Challengers Bangalore~16
+Kolkata Knight Riders~16
+Mumbai Indians~14
+Delhi Daredevils~12
+Kings XI Punjab~10
+Rising Pune Supergiants~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~20
+Gujarat Lions~18
+Royal Challengers Bangalore~16
+Mumbai Indians~14
+Kolkata Knight Riders~14
+Delhi Daredevils~12
+Kings XI Punjab~10
+Rising Pune Supergiants~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Kolkata Knight Riders~16
+Gujarat Lions~16
+Delhi Daredevils~12
+Kings XI Punjab~10
+Rising Pune Supergiants~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~20
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Gujarat Lions~16
+Kolkata Knight Riders~14
+Delhi Daredevils~12
+Kings XI Punjab~10
+Rising Pune Supergiants~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Kolkata Knight Riders~18
+Sunrisers Hyderabad~16
+Royal Challengers Bangalore~16
+Gujarat Lions~16
+Mumbai Indians~14
+Delhi Daredevils~14
+Rising Pune Supergiants~10
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Royal Challengers Bangalore~16
+Kolkata Knight Riders~16
+Gujarat Lions~16
+Mumbai Indians~14
+Delhi Daredevils~14
+Rising Pune Supergiants~10
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Kolkata Knight Riders~18
+Sunrisers Hyderabad~16
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Gujarat Lions~14
+Delhi Daredevils~14
+Rising Pune Supergiants~10
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Kolkata Knight Riders~16
+Gujarat Lions~14
+Delhi Daredevils~14
+Rising Pune Supergiants~10
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Kolkata Knight Riders~18
+Sunrisers Hyderabad~16
+Royal Challengers Bangalore~16
+Gujarat Lions~16
+Mumbai Indians~14
+Delhi Daredevils~14
+Kings XI Punjab~10
+Rising Pune Supergiants~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Royal Challengers Bangalore~16
+Kolkata Knight Riders~16
+Gujarat Lions~16
+Mumbai Indians~14
+Delhi Daredevils~14
+Kings XI Punjab~10
+Rising Pune Supergiants~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Kolkata Knight Riders~18
+Sunrisers Hyderabad~16
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Gujarat Lions~14
+Delhi Daredevils~14
+Kings XI Punjab~10
+Rising Pune Supergiants~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Kolkata Knight Riders~16
+Gujarat Lions~14
+Delhi Daredevils~14
+Kings XI Punjab~10
+Rising Pune Supergiants~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Kolkata Knight Riders~18
+Royal Challengers Bangalore~16
+Gujarat Lions~16
+Mumbai Indians~14
+Delhi Daredevils~12
+Rising Pune Supergiants~10
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~20
+Royal Challengers Bangalore~16
+Kolkata Knight Riders~16
+Gujarat Lions~16
+Mumbai Indians~14
+Delhi Daredevils~12
+Rising Pune Supergiants~10
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Kolkata Knight Riders~18
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Gujarat Lions~14
+Delhi Daredevils~12
+Rising Pune Supergiants~10
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~20
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Kolkata Knight Riders~16
+Gujarat Lions~14
+Delhi Daredevils~12
+Rising Pune Supergiants~10
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Kolkata Knight Riders~18
+Royal Challengers Bangalore~16
+Gujarat Lions~16
+Mumbai Indians~14
+Delhi Daredevils~12
+Kings XI Punjab~10
+Rising Pune Supergiants~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~20
+Royal Challengers Bangalore~16
+Kolkata Knight Riders~16
+Gujarat Lions~16
+Mumbai Indians~14
+Delhi Daredevils~12
+Kings XI Punjab~10
+Rising Pune Supergiants~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Kolkata Knight Riders~18
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Gujarat Lions~14
+Delhi Daredevils~12
+Kings XI Punjab~10
+Rising Pune Supergiants~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Rising Pune Supergiants
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~20
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Kolkata Knight Riders~16
+Gujarat Lions~14
+Delhi Daredevils~12
+Kings XI Punjab~10
+Rising Pune Supergiants~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Gujarat Lions~18
+Sunrisers Hyderabad~16
+Royal Challengers Bangalore~16
+Kolkata Knight Riders~16
+Delhi Daredevils~16
+Mumbai Indians~14
+Rising Pune Supergiants~8
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Gujarat Lions~18
+Royal Challengers Bangalore~16
+Delhi Daredevils~16
+Mumbai Indians~14
+Kolkata Knight Riders~14
+Rising Pune Supergiants~8
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~16
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Kolkata Knight Riders~16
+Gujarat Lions~16
+Delhi Daredevils~16
+Rising Pune Supergiants~8
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Gujarat Lions~16
+Delhi Daredevils~16
+Kolkata Knight Riders~14
+Rising Pune Supergiants~8
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Gujarat Lions~18
+Sunrisers Hyderabad~16
+Royal Challengers Bangalore~16
+Kolkata Knight Riders~16
+Delhi Daredevils~16
+Mumbai Indians~14
+Kings XI Punjab~10
+Rising Pune Supergiants~6
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Gujarat Lions~18
+Royal Challengers Bangalore~16
+Delhi Daredevils~16
+Mumbai Indians~14
+Kolkata Knight Riders~14
+Kings XI Punjab~10
+Rising Pune Supergiants~6
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~16
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Kolkata Knight Riders~16
+Gujarat Lions~16
+Delhi Daredevils~16
+Kings XI Punjab~10
+Rising Pune Supergiants~6
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Gujarat Lions~16
+Delhi Daredevils~16
+Kolkata Knight Riders~14
+Kings XI Punjab~10
+Rising Pune Supergiants~6
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Gujarat Lions~18
+Royal Challengers Bangalore~16
+Kolkata Knight Riders~16
+Mumbai Indians~14
+Delhi Daredevils~14
+Rising Pune Supergiants~8
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~20
+Gujarat Lions~18
+Royal Challengers Bangalore~16
+Mumbai Indians~14
+Kolkata Knight Riders~14
+Delhi Daredevils~14
+Rising Pune Supergiants~8
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Kolkata Knight Riders~16
+Gujarat Lions~16
+Delhi Daredevils~14
+Rising Pune Supergiants~8
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~20
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Gujarat Lions~16
+Kolkata Knight Riders~14
+Delhi Daredevils~14
+Rising Pune Supergiants~8
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Gujarat Lions~18
+Royal Challengers Bangalore~16
+Kolkata Knight Riders~16
+Mumbai Indians~14
+Delhi Daredevils~14
+Kings XI Punjab~10
+Rising Pune Supergiants~6
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~20
+Gujarat Lions~18
+Royal Challengers Bangalore~16
+Mumbai Indians~14
+Kolkata Knight Riders~14
+Delhi Daredevils~14
+Kings XI Punjab~10
+Rising Pune Supergiants~6
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Kolkata Knight Riders~16
+Gujarat Lions~16
+Delhi Daredevils~14
+Kings XI Punjab~10
+Rising Pune Supergiants~6
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Gujarat Lions
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~20
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Gujarat Lions~16
+Kolkata Knight Riders~14
+Delhi Daredevils~14
+Kings XI Punjab~10
+Rising Pune Supergiants~6
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Kolkata Knight Riders~18
+Sunrisers Hyderabad~16
+Royal Challengers Bangalore~16
+Gujarat Lions~16
+Delhi Daredevils~16
+Mumbai Indians~14
+Rising Pune Supergiants~8
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Royal Challengers Bangalore~16
+Kolkata Knight Riders~16
+Gujarat Lions~16
+Delhi Daredevils~16
+Mumbai Indians~14
+Rising Pune Supergiants~8
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Kolkata Knight Riders~18
+Sunrisers Hyderabad~16
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Delhi Daredevils~16
+Gujarat Lions~14
+Rising Pune Supergiants~8
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Kolkata Knight Riders~16
+Delhi Daredevils~16
+Gujarat Lions~14
+Rising Pune Supergiants~8
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Kolkata Knight Riders~18
+Sunrisers Hyderabad~16
+Royal Challengers Bangalore~16
+Gujarat Lions~16
+Delhi Daredevils~16
+Mumbai Indians~14
+Kings XI Punjab~10
+Rising Pune Supergiants~6
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Royal Challengers Bangalore~16
+Kolkata Knight Riders~16
+Gujarat Lions~16
+Delhi Daredevils~16
+Mumbai Indians~14
+Kings XI Punjab~10
+Rising Pune Supergiants~6
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Kolkata Knight Riders~18
+Sunrisers Hyderabad~16
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Delhi Daredevils~16
+Gujarat Lions~14
+Kings XI Punjab~10
+Rising Pune Supergiants~6
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Delhi Daredevils
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Kolkata Knight Riders~16
+Delhi Daredevils~16
+Gujarat Lions~14
+Kings XI Punjab~10
+Rising Pune Supergiants~6
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Kolkata Knight Riders~18
+Royal Challengers Bangalore~16
+Gujarat Lions~16
+Mumbai Indians~14
+Delhi Daredevils~14
+Rising Pune Supergiants~8
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~20
+Royal Challengers Bangalore~16
+Kolkata Knight Riders~16
+Gujarat Lions~16
+Mumbai Indians~14
+Delhi Daredevils~14
+Rising Pune Supergiants~8
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Kolkata Knight Riders~18
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Gujarat Lions~14
+Delhi Daredevils~14
+Rising Pune Supergiants~8
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Rising Pune Supergiants
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~20
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Kolkata Knight Riders~16
+Gujarat Lions~14
+Delhi Daredevils~14
+Rising Pune Supergiants~8
+Kings XI Punjab~8
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Kolkata Knight Riders~18
+Royal Challengers Bangalore~16
+Gujarat Lions~16
+Mumbai Indians~14
+Delhi Daredevils~14
+Kings XI Punjab~10
+Rising Pune Supergiants~6
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Gujarat Lions
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~20
+Royal Challengers Bangalore~16
+Kolkata Knight Riders~16
+Gujarat Lions~16
+Mumbai Indians~14
+Delhi Daredevils~14
+Kings XI Punjab~10
+Rising Pune Supergiants~6
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Kolkata Knight Riders
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~18
+Kolkata Knight Riders~18
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Gujarat Lions~14
+Delhi Daredevils~14
+Kings XI Punjab~10
+Rising Pune Supergiants~6
+If this happens:
+Game 49~Rising Pune Supergiants~Delhi Daredevils~Delhi Daredevils
+Game 50~Royal Challengers Bangalore~Kings XI Punjab~Royal Challengers Bangalore
+Game 51~Gujarat Lions~Kolkata Knight Riders~Kolkata Knight Riders
+Game 52~Delhi Daredevils~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 53~Rising Pune Supergiants~Kings XI Punjab~Kings XI Punjab
+Game 54~Gujarat Lions~Mumbai Indians~Mumbai Indians
+Game 55~Kolkata Knight Riders~Sunrisers Hyderabad~Sunrisers Hyderabad
+Game 56~Delhi Daredevils~Royal Challengers Bangalore~Royal Challengers Bangalore
+Then, this will happen:
+Sunrisers Hyderabad~20
+Royal Challengers Bangalore~16
+Mumbai Indians~16
+Kolkata Knight Riders~16
+Gujarat Lions~14
+Delhi Daredevils~14
+Kings XI Punjab~10
+Rising Pune Supergiants~6

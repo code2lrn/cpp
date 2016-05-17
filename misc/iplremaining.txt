@@ -1,0 +1,8 @@
+49~Rising Pune Supergiants~Delhi Daredevils
+50~Royal Challengers Bangalore~Kings XI Punjab
+51~Gujarat Lions~Kolkata Knight Riders
+52~Delhi Daredevils~Sunrisers Hyderabad
+53~Rising Pune Supergiants~Kings XI Punjab
+54~Gujarat Lions~Mumbai Indians
+55~Kolkata Knight Riders~Sunrisers Hyderabad
+56~Delhi Daredevils~Royal Challengers Bangalore

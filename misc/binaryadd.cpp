@@ -34,10 +34,14 @@ void BinaryAdd( std::string line ) {
     std::string properResult, resultWithoutLeadingZeroes;
     result >> properResult;
     std::copy( properResult.rbegin(), properResult.rend(), std::back_inserter( resultWithoutLeadingZeroes ) );
-    std::copy( resultWithoutLeadingZeroes.begin() + resultWithoutLeadingZeroes.find_first_of( '1' ),
-               resultWithoutLeadingZeroes.end(),
-               std::ostream_iterator< char >( std::cout, "" ) );
-    std::cout << std::endl;
+    if( resultWithoutLeadingZeroes.find_first_of( '1' ) != std::string::npos ) {
+        std::copy( resultWithoutLeadingZeroes.begin() + resultWithoutLeadingZeroes.find_first_of( '1' ),
+                   resultWithoutLeadingZeroes.end(),
+                   std::ostream_iterator< char >( std::cout, "" ) );
+        std::cout << std::endl;
+    }
+    else
+        std::cout << "0" << std::endl;
     return;
 }
 

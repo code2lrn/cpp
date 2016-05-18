@@ -4,3 +4,6 @@ add_executable(bittwidlling ${SOURCE_FILES})
 
 set(SOURCE_FILES iplpredictions.cpp)
 add_executable(iplpredictions ${SOURCE_FILES})
+
+set(SOURCE_FILES binaryadd.cpp)
+add_executable(binaryadd ${SOURCE_FILES})

@@ -9,7 +9,10 @@
 class Rectangle {
 public:
     Rectangle( int x, int y, unsigned width, unsigned height )
-            : corner1( Coordinates( x, y ) ), corner2( Coordinates( x + width, y + height ) ) { }
+            : corner1( Coordinates( x, y ) ), corner2( Coordinates( x + width, y + height ) ) {
+        // Because width & height are modeled as unsigned, corner1 is always bottom-left; corner2 is always top-right
+        // When width & height become ints, the Overlap() will have a more complex if()
+    }
 
     bool Overlaps( const Rectangle &other ) {
 

@@ -7,6 +7,8 @@
 
 int main ()
 {
+    std::cout << 0 % 2 << ", " << 1 % 2 << ", " << 2 % 2 << ", " << 3 % 2 << std::endl;
+    return 0;/*
     std::string name;
     unsigned foo;
     std::cin >> foo;
@@ -15,5 +17,5 @@ int main ()
     std::getline (std::cin,name);
     std::cout << "Hello, " << name << "!\n";
 
-    return 0;
+    return 0;*/
 }

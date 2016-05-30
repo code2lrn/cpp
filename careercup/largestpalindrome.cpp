@@ -13,7 +13,7 @@ bool IsPalindrome( const std::string &str, int l, int r ) {
 }
 
 std::string LargestPalindrome( const std::string &str, const int l, const int r ) {
-    if( r - l >= 3 ) {
+    if( r - l >= 2 ) {
         if( IsPalindrome( str, l, r ) ) {
             return str.substr( l, r - l + 1 );
         }
@@ -22,9 +22,6 @@ std::string LargestPalindrome( const std::string &str, const int l, const int r 
         }
         if( IsPalindrome( str, l, r - 1 ) ) {
             return str.substr( l, ( r - 1 ) - l + 1 );
-        }
-        if( IsPalindrome( str, l + 1, r - 1 ) ) {
-            return str.substr( ( l + 1 ), ( r - 1 ) - ( l + 1 ) + 1);
         }
         auto s1 = LargestPalindrome( str, l + 1, r );
         auto s2 = LargestPalindrome( str, l, r - 1 );

@@ -151,7 +151,6 @@ void RecursiveMatchUsingTrie( const TrieEntry *trieEntry, const Matrix &matrix, 
     }
 }
 
-
 int main( int argc, char *argv[] ) {
     std::chrono::steady_clock::time_point start = std::chrono::steady_clock::now();
 
@@ -182,8 +181,8 @@ int main( int argc, char *argv[] ) {
 
     std::chrono::steady_clock::time_point evaluated = std::chrono::steady_clock::now();
 
-    std::cout << "Creating Trie from dictionary took " << std::chrono::duration_cast<std::chrono::microseconds>( load - start ).count() << " ms.\n";
-    std::cout << "Determining posible words took " << std::chrono::duration_cast<std::chrono::microseconds>( evaluated - load ).count() << " ms.\n";
+    std::cout << "Creating Trie from dictionary took " << std::chrono::duration_cast<std::chrono::microseconds>( load - start ).count() << " microseconds.\n";
+    std::cout << "Determining posible words took " << std::chrono::duration_cast<std::chrono::microseconds>( evaluated - load ).count() << " microseconds.\n";
 
     return 0;
 }

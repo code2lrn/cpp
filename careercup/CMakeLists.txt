@@ -13,3 +13,8 @@ add_executable(matrixspiral ${SOURCE_FILES})
 #
 set(SOURCE_FILES largestpalindrome.cpp)
 add_executable(largestpalindrome ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=5752979137232896
+#
+set(SOURCE_FILES circularq.cpp)
+add_executable(circularq ${SOURCE_FILES})

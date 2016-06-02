@@ -18,3 +18,8 @@ add_executable(largestpalindrome ${SOURCE_FILES})
 #
 set(SOURCE_FILES circularq.cpp)
 add_executable(circularq ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=6222285977419776
+#
+set(SOURCE_FILES matrixstart2end.cpp)
+add_executable(matrixstart2end ${SOURCE_FILES})

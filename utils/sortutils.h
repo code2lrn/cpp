@@ -31,6 +31,12 @@ std::vector< int > GetNBoundedRandomInts( const int &minValue, const int &maxVal
     return randomItems;
 }
 
+std::vector< int > GetNSortedBoundedRandomInts( const int &minValue, const int &maxValue, const size_t &numValues ) {
+    auto randomItems = GetNBoundedRandomInts( minValue, maxValue, numValues );
+    std::sort( randomItems.begin(), randomItems.end() );
+    return randomItems;
+}
+
 int QSortPartition( const int left, const int right, std::vector< int > &items ) {
     int pivot = ( left + right ) / 2; // This need not be the return value
     auto l = left, r = right - 1;

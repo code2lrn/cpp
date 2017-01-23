@@ -1,7 +1,13 @@
 cmake_minimum_required(VERSION 3.5)
 
+#set(CMAKE_CXX_COMPILER /home/shiva/sw/gcc62/bin/g++)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++14 -Wall")
+#set(CMAKE_INCLUDE_PATH /home/shiva/sw/gcc62/include/c++/6.2.0)
+#set(CMAKE_LIBRARY_PATH /home/shiva/sw/gcc62/lib64)
 #set(CMAKE_VERBOSE_MAKEFILE true)
+
+MESSAGE( STATUS "CMAKE_INCLUDE_PATH: " ${CMAKE_INCLUDE_PATH} )
+MESSAGE( STATUS "CMAKE_LIBRARY_PATH: " ${CMAKE_LIBRARY_PATH} )
 
 add_subdirectory(./codingpuzzles-edition2)
 add_subdirectory(./hackerrank)
@@ -10,3 +16,4 @@ add_subdirectory(./c++14)
 add_subdirectory(./careercup)
 add_subdirectory(./geeksforgeeks)
 add_subdirectory(./CrackingProgInterviews)
+add_subdirectory(./cppcon2016)

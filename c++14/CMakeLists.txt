@@ -17,3 +17,8 @@ add_executable(constexpr ${SOURCE_FILES})
 #
 set(SOURCE_FILES using.cpp)
 add_executable(using ${SOURCE_FILES})
+
+# using
+#
+set(SOURCE_FILES inheritance.cpp)
+add_executable(inheritance ${SOURCE_FILES})

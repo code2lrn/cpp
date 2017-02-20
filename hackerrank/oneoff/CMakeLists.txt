@@ -21,3 +21,8 @@ add_executable(anagrameditdist ${SOURCE_FILES})
 #
 set(SOURCE_FILES makinganagrams.cpp)
 add_executable(makinganagrams ${SOURCE_FILES})
+
+# Binary Tree shallowest leaf node
+#
+set(SOURCE_FILES btreeleafdepth.cpp)
+add_executable(btreeleafdepth ${SOURCE_FILES})

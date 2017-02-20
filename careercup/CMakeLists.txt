@@ -23,3 +23,18 @@ add_executable(circularq ${SOURCE_FILES})
 #
 set(SOURCE_FILES matrixstart2end.cpp)
 add_executable(matrixstart2end ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=5692396030394368
+#
+set(SOURCE_FILES strdecode.cpp)
+add_executable(strdecode ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=5661553962516480
+#
+set(SOURCE_FILES stockbuysellcc.cpp)
+add_executable(stockbuysellcc ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=5177754057179136
+#
+set(SOURCE_FILES numtowords.cpp)
+add_executable(numtowords ${SOURCE_FILES})

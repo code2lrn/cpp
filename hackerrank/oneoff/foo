@@ -1,0 +1,24 @@
+
+
+struct Node {
+    std::string label;
+    Node *left;
+    Node *right;
+};
+
+Node* GetNode( const std::string &str ) {
+    Node *n = new Node;
+    n->label = str;
+    n->left = nullptr;
+    n->right = nullptr;
+}
+
+Node* FindNode( Node *n, const std::string &label ) {
+    if( n == nullptr )
+        return nullptr;
+
+    if( n->label == label )
+        return n;
+    else if( n->label > )
+}
+

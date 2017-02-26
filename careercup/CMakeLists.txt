@@ -38,3 +38,8 @@ add_executable(stockbuysellcc ${SOURCE_FILES})
 #
 set(SOURCE_FILES numtowords.cpp)
 add_executable(numtowords ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=5765433895419904
+#
+set(SOURCE_FILES tvuse.cpp)
+add_executable(tvuse ${SOURCE_FILES})

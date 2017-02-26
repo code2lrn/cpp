@@ -38,3 +38,23 @@ add_executable(lightbulbs ${SOURCE_FILES})
 #
 set(SOURCE_FILES strinterleaveverify.cpp)
 add_executable(strinterleaveverify ${SOURCE_FILES})
+
+# https://codelab.interviewbit.com/problems/diffk2/
+#
+set(SOURCE_FILES diffk2.cpp)
+add_executable(diffk2 ${SOURCE_FILES})
+
+# https://codelab.interviewbit.com/problems/excel1/
+#
+set(SOURCE_FILES excel1.cpp)
+add_executable(excel1 ${SOURCE_FILES})
+
+# https://codelab.interviewbit.com/problems/pascal1/
+#
+set(SOURCE_FILES pascal1.cpp)
+add_executable(pascal1 ${SOURCE_FILES})
+
+# https://codelab.interviewbit.com/problems/majority/
+#
+set(SOURCE_FILES partition.cpp)
+add_executable(partition ${SOURCE_FILES})

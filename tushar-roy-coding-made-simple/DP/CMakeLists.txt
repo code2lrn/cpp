@@ -23,3 +23,28 @@ add_executable(coinchangetopdown ${SOURCE_FILES})
 #
 set(SOURCE_FILES coinchangebottomup.cpp)
 add_executable(coinchangebottomup ${SOURCE_FILES})
+
+# https://www.youtube.com/watch?v=We3YDTzNXEk&index=8&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
+#
+set(SOURCE_FILES mineditdistance.cpp)
+add_executable(mineditdistance ${SOURCE_FILES})
+
+# https://www.youtube.com/watch?v=CE2b_-XfVDk&index=6&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
+#
+set(SOURCE_FILES longestincrsubseq.cpp)
+add_executable(longestincrsubseq ${SOURCE_FILES})
+
+# https://www.youtube.com/watch?v=NnD96abizww&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=2
+#
+set(SOURCE_FILES longestcommonsubseq.cpp)
+add_executable(longestcommonsubseq ${SOURCE_FILES})
+
+# https://www.youtube.com/watch?v=NnD96abizww&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=2
+#
+set(SOURCE_FILES subsetsumdp.cpp)
+add_executable(subsetsumdp ${SOURCE_FILES})
+
+# Maximum Value of an unorderd array of integers
+#
+set(SOURCE_FILES maxvaluesubarray.cpp)
+add_executable(maxvaluesubarray ${SOURCE_FILES})

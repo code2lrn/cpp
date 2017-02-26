@@ -10,7 +10,7 @@ std::string Decode(const std::string &str ) {
     std::stringstream ss;
     std::stack< unsigned > priorNumbers;
     std::stack< std::string > priorStrings;
-    std::stringstream latestCharSeq;
+    std::string latestCharSeq;
     unsigned latestNumber = 0;
     for( size_t i = 0; i < str.size(); ++i ) {
         auto ch = str[ i ];
@@ -21,49 +21,51 @@ std::string Decode(const std::string &str ) {
                 break;
             case ']' : {
                 //
-                auto seq = latestCharSeq.str();
                 auto repeatCount = priorNumbers.top();
                 std::stringstream tmp;
                 while (repeatCount--) {
-                    tmp << seq;
+                    tmp << latestCharSeq;
                 }
                 priorNumbers.pop();
                 if (priorStrings.size() == 0) {
-                    priorStrings.push(tmp.str());
+                    latestCharSeq = tmp.str();
                 } else {
                     auto prefix = priorStrings.top();
                     priorStrings.pop();
-                    priorStrings.push(prefix + tmp.str());
+                    latestCharSeq = prefix + tmp.str();
                 }
                 break;
             }
             default:
                 if( ch >= '0' && ch <= '9' ) {
-                    auto seq = latestCharSeq.str();
-                    if( seq.size() > 0 ) {
-                        priorStrings.push( seq );
-                        latestCharSeq.clear();
+                    if( latestCharSeq.size() > 0 ) {
+                        priorStrings.push( latestCharSeq );
+                        latestCharSeq = "";
                     }
                     latestNumber = latestNumber * 10 + ( ch - '0' );
                 }
                 else if( ch >= 'a' && ch <= 'z' ) {
-                    latestCharSeq << ch;
+                    latestCharSeq += ch;
                 }
         };
     }
 
-    if( priorNumbers.size() || priorStrings.size() != 1 )
+    if( priorNumbers.size() || priorStrings.size() )
         return "Something wrong";
 
-    auto returnStr = priorStrings.top();
-    return returnStr;
+    return latestCharSeq;
 }
 
 int main( int argc, char *argv[] ) {
 
-    std::string str;
+    //std::string str{ "2[a2[c]d]" };
+    std::string str{ "3[a2[bd]g4[ef]h]" };
+
+    std::cout << Decode( str ) << "\n";
+/*
     while( std::cin >> str ) {
         std::cout << Decode( str ) << "\n";
     }
+*/
     return 0;
 }

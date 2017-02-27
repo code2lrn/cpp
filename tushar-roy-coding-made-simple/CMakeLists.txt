@@ -1,3 +1,5 @@
 add_subdirectory(./DP)
 add_subdirectory(./trees)
 add_subdirectory(./BT)
+add_subdirectory(./Graphs)
+add_subdirectory(./PatternMatching)

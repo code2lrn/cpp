@@ -28,7 +28,7 @@ std::vector< int > GetNBoundedRandomInts( const int &minValue, const int &maxVal
     randomItems.resize( numValues );
     std::generate( randomItems.begin(), randomItems.end(), std::bind( dist, std::ref( engine ) ) );
 
-    return randomItems;
+    return std::move( randomItems );
 }
 
 std::vector< int > GetNSortedBoundedRandomInts( const int &minValue, const int &maxValue, const size_t &numValues ) {

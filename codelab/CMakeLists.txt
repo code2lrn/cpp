@@ -58,3 +58,8 @@ add_executable(pascal1 ${SOURCE_FILES})
 #
 set(SOURCE_FILES partition.cpp)
 add_executable(partition ${SOURCE_FILES})
+
+# https://codelab.interviewbit.com/problems/gas/
+#
+set(SOURCE_FILES optimumgasstn.cpp)
+add_executable(optimumgasstn ${SOURCE_FILES})

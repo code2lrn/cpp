@@ -63,3 +63,53 @@ add_executable(partition ${SOURCE_FILES})
 #
 set(SOURCE_FILES optimumgasstn.cpp)
 add_executable(optimumgasstn ${SOURCE_FILES})
+
+# https://codelab.interviewbit.com/problems/arrange2/
+#
+set(SOURCE_FILES arrange2.cpp)
+add_executable(arrange2 ${SOURCE_FILES})
+
+# https://codelab.interviewbit.com/problems/primesum/
+#
+set(SOURCE_FILES primesum.cpp)
+add_executable(primesum ${SOURCE_FILES})
+
+# https://codelab.interviewbit.com/dashboard/?s_id=67517
+#
+set(SOURCE_FILES reach.cpp)
+add_executable(reach ${SOURCE_FILES})
+
+# https://codelab.interviewbit.com/problems/power2/
+#
+set(SOURCE_FILES power2.cpp)
+add_executable(power2 ${SOURCE_FILES})
+
+# https://codelab.interviewbit.com/problems/diagonal/
+#
+set(SOURCE_FILES antidiagonal.cpp)
+add_executable(antidiagonal ${SOURCE_FILES})
+
+# https://codelab.interviewbit.com/problems/stepnum/
+#
+set(SOURCE_FILES steppingnum.cpp)
+add_executable(steppingnum ${SOURCE_FILES})
+
+# https://codelab.interviewbit.com/problems/maxcoin/
+#
+set(SOURCE_FILES maxcoin.cpp)
+add_executable(maxcoin ${SOURCE_FILES})
+
+# https://codelab.interviewbit.com/problems/avgset/
+#
+set(SOURCE_FILES avgset.cpp)
+add_executable(avgset ${SOURCE_FILES})
+
+# https://codelab.interviewbit.com/problems/colorful/
+#
+set(SOURCE_FILES colorful.cpp)
+add_executable(colorful ${SOURCE_FILES})
+
+#
+#
+set(SOURCE_FILES uniqueprefix.cpp)
+add_executable(uniqueprefix ${SOURCE_FILES})

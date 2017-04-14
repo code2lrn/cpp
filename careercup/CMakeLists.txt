@@ -43,3 +43,53 @@ add_executable(numtowords ${SOURCE_FILES})
 #
 set(SOURCE_FILES tvuse.cpp)
 add_executable(tvuse ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=5747323117240320
+# IDentify the input points that form a square
+set(SOURCE_FILES pointsofsquare.cpp)
+add_executable(pointsofsquare ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=5724734743379968
+#
+set(SOURCE_FILES uniquecharset.cpp)
+add_executable(uniquecharset ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=5068525614923776
+#
+set(SOURCE_FILES longestrepeatedchar.cpp)
+add_executable(longestrepeatedchar ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=5705773536509952
+#
+set(SOURCE_FILES sumofpairofarrays.cpp)
+add_executable(sumofpairofarrays ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=5091778836299776
+#
+set(SOURCE_FILES arraysubsetlessthantgt.cpp)
+add_executable(arraysubsetlessthantgt ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=5692984331862016
+#
+set(SOURCE_FILES bipartite.cpp)
+add_executable(bipartite ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=6303130607157248
+#
+set(SOURCE_FILES workdivision.cpp)
+add_executable(workdivision ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=5662358396469248
+#
+set(SOURCE_FILES factorsum.cpp)
+add_executable(factorsum ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=5651720030912512
+#
+set(SOURCE_FILES expressiontree.cpp)
+add_executable(expressiontree ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=5682803648757760
+#
+set(SOURCE_FILES movenonzero.cpp)
+add_executable(movenonzero ${SOURCE_FILES})

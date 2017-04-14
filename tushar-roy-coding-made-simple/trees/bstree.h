@@ -15,6 +15,10 @@ template< typename T >
 class BSTree : public BTree< T > {
 public:
     BSTree() { }
+    BSTree( const std::initializer_list< T > &values ) {
+        std::for_each( values.begin(), values.end(), [ this ] ( const T val ) { this->Insert( val ); } );
+    }
+
     virtual ~BSTree() { }
 
     void Insert( const T &value ) {

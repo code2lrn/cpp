@@ -11,5 +11,7 @@ int main( int argc, char *argv[] ) {
     g.DFS();
     std::cout << std::endl;
     g.BFS();
+    auto resultD = g.DikjstraShortestPath( 1, 6 );
+    auto resultBF = g.BellmanFordShortestPath( 1, 6 );
     return 0;
 }

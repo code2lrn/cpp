@@ -29,8 +29,8 @@ std::vector<int> GenerateSuffixArray( const std::string &str ) {
 
 int main( int argc, char *argv[] ) {
 
-    //std::string str{ "acacabacacabacacac" };
-    std::string str{ "abcaby" };
+    std::string str{ "acacabacacabacacac" };
+    //std::string str{ "abcaby" };
     auto suffixLength( GenerateSuffixArray( str ) );
     std::copy( suffixLength.begin(), suffixLength.end(), std::ostream_iterator< int >( std::cout, " " ) );
     return 0;

@@ -18,3 +18,8 @@ add_executable(root2leafsumcheck ${SOURCE_FILES})
 #
 set(SOURCE_FILES lowestcommancestor.cpp)
 add_executable(lowestcommancestor ${SOURCE_FILES})
+
+#
+#
+set(SOURCE_FILES spiralorderprint.cpp)
+add_executable(spiralorderprint ${SOURCE_FILES})

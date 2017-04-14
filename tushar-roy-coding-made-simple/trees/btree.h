@@ -34,6 +34,43 @@ public:
         }
     }
 
+    void SpiralOrderTraverse( std::function< void( unsigned, const T& ) > cb ) {
+        if( root == nullptr ) {
+            return;
+        }
+
+        std::deque< std::pair< Node*, unsigned  > > nextItem;
+        nextItem.push_back( std::make_pair( root, 1 ) );
+        Node *curItem;
+        unsigned priorDepth = 1, curDepth = 1;
+        bool getFromFront = true;
+        while( !nextItem.empty() ) {
+            std::cout << std::endl << priorDepth << ":" << curDepth << std::endl;
+            if( priorDepth != curDepth ) {
+                getFromFront = !getFromFront;
+                priorDepth = curDepth;
+            }
+
+            if( getFromFront ) {
+                std::tie( curItem, curDepth ) = nextItem.front();
+                nextItem.pop_front();
+            }
+            else {
+                std::tie( curItem, curDepth ) = nextItem.back();
+                nextItem.pop_back();
+            }
+
+            if( curItem->left != nullptr ) {
+                nextItem.push_back( std::make_pair( curItem->left, curDepth + 1 ) );
+            }
+            if( curItem->right != nullptr ) {
+                nextItem.push_back( std::make_pair( curItem->right, curDepth + 1 ) );
+            }
+            cb( curDepth, curItem->value );
+
+        }
+    }
+
     bool IsSameAs( const BTree &other ) {
         if( this == &other )
             return true;

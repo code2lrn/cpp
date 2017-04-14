@@ -10,6 +10,8 @@
 #include <iostream>
 #include <set>
 #include <queue>
+#include <unordered_map>
+#include <limits>
 
 class Graph {
 public:
@@ -62,6 +64,70 @@ public:
                 }
             }
         }
+    }
+
+    std::pair< int, std::vector< int > > DikjstraShortestPath( int from, int to ) {
+        std::unordered_map< int, int > predecessor;
+        std::unordered_map< int, int > distancebyVertex;
+        auto maxVal = std::numeric_limits< int >::max();
+        for( size_t i = 1; i <= vertices.size(); ++i ) {
+            distancebyVertex.insert( std::make_pair( i, (unsigned)from == i ? 0 : maxVal ) );
+        }
+        predecessor.insert( std::make_pair( from, 0 ) );
+
+        auto Comparator = []( const Edge &e1, const Edge &e2 ){ return e1.edgeValue > e2.edgeValue; };
+        std::priority_queue< Edge, std::vector< Edge >, decltype( Comparator ) > heaptoGetMinValue( Comparator );
+        heaptoGetMinValue.push( Edge( from, 0 ) );
+        while( !heaptoGetMinValue.empty() ) {
+            auto vertex = heaptoGetMinValue.top();
+            heaptoGetMinValue.pop();
+            for( auto adjacentVertex : vertices[ vertex.edgeTo ] ) {
+                if( distancebyVertex[ adjacentVertex.edgeTo ] == maxVal
+                    || distancebyVertex[ adjacentVertex.edgeTo ] > distancebyVertex[ vertex.edgeTo ] + adjacentVertex.edgeValue ) {
+                    distancebyVertex[ adjacentVertex.edgeTo ] = distancebyVertex[ vertex.edgeTo ] + adjacentVertex.edgeValue;
+                    heaptoGetMinValue.push( Edge( adjacentVertex.edgeTo, distancebyVertex[ adjacentVertex.edgeTo ] ) );
+                    predecessor[ adjacentVertex.edgeTo ] = vertex.edgeTo;
+                }
+            }
+        }
+        std::vector< int > path;
+        auto it = predecessor.find( to );
+        while( it != predecessor.end() && it->second != 0 ) {
+            path.push_back( it->second );
+            it = predecessor.find( it->second );
+        }
+        return std::make_pair( distancebyVertex[ to ], path );
+    }
+
+    std::pair< int, std::vector< int > > BellmanFordShortestPath( int from, int to ) {
+        std::unordered_map< int, std::pair< int, int > > distanceAndParentByDestn;
+        auto intMax = std::numeric_limits< int >::max() - 1000000;
+        for( size_t i = 1; i <= vertices.size(); ++i ) {
+            distanceAndParentByDestn.insert( std::make_pair( i, std::make_pair( i == from ? 0 : intMax, -1 ) ) );
+        }
+
+        for( int i = 1; i < vertices.size(); ++i ) {
+            for( int u = 1; u < vertices.size(); ++u ) {
+                auto uCost = distanceAndParentByDestn.find( u )->second.first;
+                for( auto edge : vertices[ u ] ) {
+                    auto v = edge.edgeTo;
+                    auto c = edge.edgeValue;
+                    auto it = distanceAndParentByDestn.find( v );
+                    if( it->second.first > uCost + c ) {
+                        it->second.first  = uCost + c;
+                        it->second.second = u;
+                    }
+                }
+            }
+        }
+        std::vector< int > path;
+        auto it = distanceAndParentByDestn.find( to );
+        auto distance = it->second.first;
+        while( it->second.second != -1 && it != distanceAndParentByDestn.end() ) {
+            path.push_back( it->second.second );
+            it = distanceAndParentByDestn.find( it->second.second );
+        }
+        return std::make_pair( distance, path );
     }
 
 private:

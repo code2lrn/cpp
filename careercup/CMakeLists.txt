@@ -93,3 +93,29 @@ add_executable(expressiontree ${SOURCE_FILES})
 #
 set(SOURCE_FILES movenonzero.cpp)
 add_executable(movenonzero ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=4841091208577024
+#
+set(SOURCE_FILES ternarytree.cpp)
+add_executable(ternarytree ${SOURCE_FILES})
+
+#
+#
+set(SOURCE_FILES spiralmatrix.cpp)
+add_executable(spiralmatrix ${SOURCE_FILES})
+
+#
+#
+set(SOURCE_FILES mirrortree.cpp)
+add_executable(mirrortree ${SOURCE_FILES})
+
+
+# https://www.careercup.com/question?id=5666765251018752
+#
+set(SOURCE_FILES alphabetperm.cpp)
+add_executable(alphabetperm ${SOURCE_FILES})
+
+# https://www.careercup.com/question?id=6319415327981568
+#
+set(SOURCE_FILES repeatcustomers.cpp)
+add_executable(repeatcustomers ${SOURCE_FILES})

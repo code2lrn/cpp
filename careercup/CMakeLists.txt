@@ -119,3 +119,19 @@ add_executable(alphabetperm ${SOURCE_FILES})
 #
 set(SOURCE_FILES repeatcustomers.cpp)
 add_executable(repeatcustomers ${SOURCE_FILES})
+
+# Print all interleaved strings that can be formed from 2 strings
+# The interleaving must be in order
+set(SOURCE_FILES interleavedstrings.cpp)
+add_executable(interleavedstrings ${SOURCE_FILES})
+
+# Print all interleaved strings that can be formed from 2 strings
+# The interleaving must be in order
+set(SOURCE_FILES gen32bitipaddr.cpp)
+add_executable(gen32bitipaddr ${SOURCE_FILES})
+
+
+# Given an odd number, generate bitonic pattern in a matrix
+#
+set(SOURCE_FILES generatebitonicpattern.cpp)
+add_executable(generatebitonicpattern ${SOURCE_FILES})
